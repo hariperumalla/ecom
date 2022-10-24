@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DatabaseProjectecom_db",
+			"path": "../hi/DatabaseProjectecom_db"
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"DatabaseProjectecom_db/DatabaseProjectecom_db.sqlproj"
+		]
+	}
+}
